@@ -2,4 +2,5 @@ def addition(a,b):
     return a + b
 
 
-print(addition(4,6))
+    #return s + ((BLOCK_SIZE - len(s) % BLOCK_SIZE) * PADDING)
+
